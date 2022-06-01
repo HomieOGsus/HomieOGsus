@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nicolai aka @HomieOGsus
 - 👀 I’m interested in container, automation with powershell, harden and securing servers
 - 🌱 I’m currently learning to manage CentOS server and setting up Docker
-- 💞️ I’m looking to collaborate on Docker, powershell
+- 💞️ I’m looking to collaborate on open source projects which include some coding or docker
 - 📫 How to reach me: write a mail to me on Nrasmussen92@gamil.com
 
 <!---
